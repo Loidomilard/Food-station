@@ -1,0 +1,211 @@
+OMNÍVORA (ninguna dieta)
+Menú desayunos
+1.	Combo dos pupusas + café, $2.25
+2.	Platanitos con frijoles y pan, $1.75
+3.	Pupusas queso/frijol, $1.00
+4.	Dobladas queso/frijol, $1.25
+5.	Derretido de queso, $1.00
+6.	Yogurt con granola, $1.50
+7.	Molletes, $1.00
+8.	Waffles con miel, $1.00
+9.	Avena con leche, $1.25
+10.	Avena con agua, $1.00
+11.	Combo pan dulce + café, $0.85
+Menú almuerzo
+12. Hot dog con escabeche, $2.00
+13. Hot dog chilli con carne, $2.25
+14. Nachos con chilli y queso, $2.25
+15. Pizza personal del día, $2.50
+16. Sopa Ramen, $1.50
+17. Ensalada con proteína, $3.50
+- Combo (+refresco y papas), +$0.75
+Menú bebidas
+18. Cappuccino & Latte, $1.50
+19. Americano & Espresso, $1.00
+20. Café percolado, $0.50
+21. Café cold brew, $2.50
+22. Sodas variedad, $1.00
+23. Jugos enlatados, $0.85
+24. Agua, $0.60
+25. Chai latte, $2.00
+Menú snacks
+26. Tostadas artesanales, $0.75
+27. Boquitas Diana, $0.30–$0.50
+28. Fruta de temporada, $1.00
+29. Variedad pan dulce, $0.50
+30. Chicles, $2.00
+31. Galletas, $0.40
+32. Chocolates, $0.30
+Semillas
+33. Marañón, $1.20
+34. Maní salado, $1.00
+35. Maní dulce, $1.00
+Helados Sarita
+36. Cinta negra Crispy, $1.50
+37. Cinta Negra Sarita, $1.25
+38. Cremosa Naranja, $1.00
+39. Giga Almendra, $1.75
+40. Giga Clásica, $1.75
+41. Galleta, $1.10
+42. Paleta Frutales, $0.85
+43. Sandwiches, $1.15
+________________________________________
+VEGETARIANA
+Menú desayunos
+1.	Yogurt con granola, $1.50
+2.	Molletes, $1.00
+3.	Avena con leche, $1.25
+4.	Avena con agua, $1.00
+5.	Combo pan dulce + café, $0.85
+6.	Waffles con miel, $1.00
+7.	Dobladas queso/frijol, $1.25
+8.	Derretido de queso, $1.00
+9.	Pupusas queso/frijol, $1.00
+10.	Platanitos con frijoles y pan, $1.75
+Menú almuerzo
+11. Ensalada del día sin proteína, $3.50
+- Combo (+refresco y papas), +$0.75
+Menú bebidas
+12. Cappuccino & Latte, $1.50
+13. Americano & Espresso, $1.00
+14. Café percolado, $0.50
+15. Café cold brew, $2.50
+16. Sodas variedad, $1.00
+17. Jugos enlatados, $0.85
+18. Agua, $0.60
+19. Chai latte, $2.00
+Menú snacks
+20. Tostadas artesanales, $0.75
+21. Boquitas Diana, $0.30–$0.50
+22. Fruta de temporada, $1.00
+23. Variedad pan dulce, $0.50
+24. Chicles, $2.00
+25. Galletas, $0.40
+26. Chocolates, $0.30
+Semillas
+27. Marañón, $1.20
+28. Maní salado, $1.00
+29. Maní dulce, $1.00
+Helados Sarita
+30. Cinta negra Crispy, $1.50
+31. Cinta Negra Sarita, $1.25
+32. Cremosa Naranja, $1.00
+33. Giga Almendra, $1.75
+34. Giga Clásica, $1.75
+35. Galleta, $1.10
+36. Paleta Frutales, $0.85
+37. Sandwiches, $1.15
+________________________________________
+VEGANA
+(Sin ingredientes animales: ni carnes, ni lácteos, ni miel)
+Menú desayunos
+1.	Avena con agua, $1.00
+Menú almuerzo
+2. Ensalada del día sin proteína, $3.50
+•	Combo (+refresco y papas), +$0.75
+Menú bebidas
+3. Americano & Espresso, $1.00
+4. Café percolado, $0.50
+5. Café cold brew, $2.50
+6. Sodas variedad, $1.00
+7. Jugos enlatados, $0.85
+8. Agua, $0.60
+Menú snacks
+9. Tostadas artesanales, $0.75
+10. Boquitas Diana, $0.30–$0.50
+11. Fruta de temporada, $1.00
+Semillas
+12. Marañón, $1.20
+13. Maní salado, $1.00
+14. Maní dulce, $1.00
+________________________________________
+SIN GLUTEN (CELÍACA)
+(Sin trigo, cebada ni centeno)
+Menú desayunos
+1.	Yogurt con granola, $1.50
+2.	Avena con leche, $1.25
+3.	Avena con agua, $1.00
+4.	Combo pan dulce + café, $0.85
+Menú almuerzo
+5. Ensalada con proteína, $3.50
+•	Combo (+refresco y papas), +$0.75
+Menú bebidas
+6. Cappuccino & Latte, $1.50
+7. Americano & Espresso, $1.00
+8. Café percolado, $0.50
+9. Café cold brew, $2.50
+10. Sodas variedad, $1.00
+11. Jugos enlatados, $0.85
+12. Agua, $0.60
+13. Chai latte, $2.00
+Menú snacks
+14. Boquitas Diana, $0.30–$0.50
+15. Fruta de temporada, $1.00
+16. Chocolates, $0.30
+Semillas
+17. Marañón, $1.20
+18. Maní salado, $1.00
+19. Maní dulce, $1.00
+Helados Sarita
+20. Paleta Frutales, $0.85
+________________________________________
+SIN LACTOSA
+(Sin leche ni derivados lácteos)
+Menú desayunos
+1.	Avena con agua, $1.00
+Menú almuerzo
+2. Ensalada con proteína, $3.50
+•	Combo (+refresco y papas), +$0.75
+Menú bebidas
+3. Americano & Espresso, $1.00
+4. Café percolado, $0.50
+5. Café cold brew, $2.50
+6. Sodas variedad, $1.00
+7. Jugos enlatados, $0.85
+8. Agua, $0.60
+Menú snacks
+9. Tostadas artesanales, $0.75
+10. Boquitas Diana, $0.30–$0.50
+11. Fruta de temporada, $1.00
+12. Chocolates sin leche, $0.30
+Semillas
+13. Marañón, $1.20
+14. Maní salado, $1.00
+15. Maní dulce, $1.00
+Helados Sarita
+16. Paleta Frutales, $0.85
+________________________________________
+DIETA DASH
+(Baja en sodio, azúcares y grasas saturadas)
+Menú desayunos
+1.	Combo dos pupusas + café, $2.25
+2.	Platanitos con frijoles y pan, $1.75
+3.	Pupusas queso/frijol, $1.00
+4.	Dobladas queso/frijol, $1.25
+5.	Derretido de queso, $1.00
+6.	Yogurt con granola, $1.50
+7.	Molletes, $1.00
+8.	Avena con leche, $1.25
+9.	Avena con agua, $1.00
+Menú almuerzo
+10. Ensalada con proteína, $3.50
+•	Combo (+refresco y papas), +$0.75
+Menú bebidas
+11. Americano & Espresso, $1.00
+12. Café percolado, $0.50
+13. Café cold brew, $2.50
+14. Jugos enlatados, $0.85
+15. Agua, $0.60
+Menú snacks
+16. Boquitas Diana, $0.30–$0.50
+17. Fruta de temporada, $1.00
+Semillas
+18. Marañón, $1.20
+19. Maní salado, $1.00
+20. Maní dulce, $1.00
+
+
+--- COMENTARIO DE USUARIO ---
+Tipo de dieta: 
+Comentario: no me gusta la sopa
+Calificación: 2/10
